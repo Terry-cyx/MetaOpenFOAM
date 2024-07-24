@@ -96,6 +96,9 @@ MetaOpenFOAM: an LLM-based multi-agent framework for CFD
     ```
 
 Now your environment is set up and you can start working with MetaOpenFOAM.
+
+Once my paper is published, the source code will be made public
+
 ## Citation
 If you find our work useful in your research, please consider citing:
 
