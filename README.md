@@ -80,7 +80,7 @@ MetaOpenFOAM: an LLM-based multi-agent framework for CFD
 1. Clone the MetaOpenFOAM repository.
 
     ```bash
-    git clone https://github.com/Terry_cyx/MetaOpenFOAM.git
+    git clone https://github.com/Terry-cyx/MetaOpenFOAM.git
     ```
 
 2. Set the `PYTHONPATH` to include the MetaOpenFOAM directory.
