@@ -108,5 +108,5 @@ If you find our work useful in your research, please consider citing:
   author={Yuxuan Chen and Xu Zhu and Hua Zhou and Zhuyin Ren},
   journal={Journal Name},
   year={2024},
-  doi={doi_test}
+  doi={http://arxiv.org/abs/2407.21320}
 }
