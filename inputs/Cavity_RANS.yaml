@@ -1,0 +1,13 @@
+usr_requirment: "do a 2D RANS simulation of incompressible cavity flow using pisoFoam, with RANS model: RNGkEpsilon, grid 15*15*1"
+max_loop: 20
+temperature: 0.01
+batchsize: 10
+searchdocs: 2
+run_times: 10
+
+MetaGPT_PATH: "XXX"
+OPENAI_API_KEY: "XXX"
+OPENAI_PROXY: "XXX"
+OPENAI_BASE_URL: "XXX"
+model: "gpt-4o"
+

@@ -1,0 +1,12 @@
+usr_requirment: "do a compressible simulation of squareBendLiq of using rhoSimpleFoam with endTime = 100, deltaT = 1, and writeInterval = 10"
+max_loop: 20
+temperature: 0.01
+batchsize: 10
+searchdocs: 2
+run_times: 10
+
+MetaGPT_PATH: "XXX"
+OPENAI_API_KEY: "XXX"
+OPENAI_PROXY: "XXX"
+OPENAI_BASE_URL: "XXX"
+model: "gpt-4o"
